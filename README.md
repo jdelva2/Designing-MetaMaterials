@@ -11,7 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Purpose
+Create a Python code that would serve for an open sourced Machine Learning platform TensorFlow. The Python code solves for the Reflective and Transmittance values. Using this and creating a large database of Transmittance values this would allow theMachine Learning system to optimize the best multi-layered ma-terial using the users given parameters of: number of materials, type of material, and angle/strength of wavelength projected onto the meta-surface.
+
 ## Header 2
 ### Header 3
 
