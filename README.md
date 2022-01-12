@@ -4,4 +4,4 @@
 Create a Python code that would serve for an open sourced Machine Learning platform TensorFlow. The Python code solves for the Reflective and Transmittance values. Using this and creating a large database of Transmittance values this would allow the Machine Learning system to optimize the best multi-layered material using the users given parameters of: number of materials, type of material, and angle/strength of wavelength projected onto the meta-surface.
 
 
-![Image](src)
+![Meta-Materials Poster](blob:null/f4c0dd33-781c-4764-82e0-d86914e287a8)
