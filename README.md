@@ -1,4 +1,4 @@
-# [Designing Meta-Materials](https://github.com/jdelva2/Designing-MetaMaterials)
+# [Designing Meta-Materials](https://jdelva2.github.io/Designing-MetaMaterials/)
 
 ## Summary
   Meta-materials are assemblies of naturally occurring substances which exhibit unusual properties such as zero permeability and/or permittivity, or negative index of refraction. Applications include high sensitivity diagnostics, super-resolution imaging, and cloaking.
